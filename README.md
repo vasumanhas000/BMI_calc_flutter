@@ -1,3 +1,3 @@
-# BMI_calc_flutter op app
+# BMI_calc_flutter 
 A BMI calculator on your phone.
 hi bitch
